@@ -1,6 +1,6 @@
 # Build and Deploy a Simple Facebook Clone with React 18! (firebase , contextApi)
 
-Build and Deploy a Simple Facebook Clone Clone with React 18! Firebase Storing and Firebase Google Authentication 
+Build and Deploy a Simple Facebook Clone with React 18! Firebase Storing and Firebase Google Authentication 
 
 ## Welcome! 
 Thanks for checking out this Application.
